@@ -1,44 +1,35 @@
-<div class="container-fluid">
-    <div class="header">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
+<div class="header br_000">
+  <div class="wrapper br_000">
+    <div class="row_top br_000">
+      <div class="logo">
+        <h1>KUKLALOL</h1>
+      </div>
+      <div class="block_contacts  br_000">
+        <div class="phone">
+          <a href="tel:+380985554433">+7(999) 969-50-31</a>
+          <div class="pnote_signature">10:00 до 20:00 по МСК</div>
         </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
+        <div class="order_call">
+          <div class="button">Заказать звонок</div>
+        </div>
+        <div class="whatsapp_btn">
+          <div class="button">вацап</div>
+        </div>
+      </div>
+    </div>
+    <div class="row_bottom br_000">
+      <div class="block_links">
+        <a href="#">Главная</a>
+        <a href="#">Все бренды</a>
+        <a href="#">Доставка</a>
+        <a href="#">О магазине</a>
+        <a href="#">Блог</a>
+      </div>
+    </div>
   </div>
-</nav>
-    </div>
-    <div class="content">
-    
-    </div>
-    <div class="footer">
-    </div>
+</div>
+<div class="content">
+
+</div>
+<div class="footer">
 </div>

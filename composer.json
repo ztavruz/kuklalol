@@ -8,5 +8,12 @@
             "name": "ztavruz",
             "email": "mr.ztavruz1987@mail.ru"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Admin\\": "admin",
+            "Api\\": "api"
+        }
+    }
 }

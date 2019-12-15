@@ -33,7 +33,7 @@ class Router
         $url = trim($url, '/');
         $url = preg_replace("#\?.*$#", null, $url);
         if ($url == '') {
-            $url = 'guest';
+            $url = 'main';
         }
 
         
